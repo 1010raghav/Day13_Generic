@@ -10,8 +10,14 @@ namespace Day13_practice
         {
             Console.WriteLine("Find Max Value");
 
-           double doubleoutput = UC1.Maxint(11.2, 22.1, 33.23);
-           Console.WriteLine(doubleoutput);    
+            string stringoutput = UC1.Maxint("22", "33", "44");
+            Console.WriteLine(stringoutput);
+
+            
+        }
+    }
+}
+
         }
     }
 }
