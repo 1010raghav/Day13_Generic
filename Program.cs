@@ -10,7 +10,7 @@ namespace Day13_practice
         {
             Console.WriteLine("Find Max Value");
 
-            string stringoutput = UC1.Maxint("22", "33", "44");
+             string stringoutput = UC1.Maxint("22", "33", "44");
             Console.WriteLine(stringoutput);
 
             
@@ -18,6 +18,4 @@ namespace Day13_practice
     }
 }
 
-        }
-    }
-}
+
